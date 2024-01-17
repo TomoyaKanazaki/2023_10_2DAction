@@ -1,0 +1,29 @@
+//==========================================
+//
+//  使用するモデルの設定[ModelData.txt]
+//  Author : Tomoya Kanazaki
+//
+//==========================================
+
+NUM_MODEL = 17
+
+//==========================================
+//  xファイル名
+//==========================================
+MODEL_FILENAME = 168\\00_waist.x			//[0]腰
+MODEL_FILENAME = 168\\01_body.x				//[1]体
+MODEL_FILENAME = 168\\02_head.x				//[2]頭
+MODEL_FILENAME = 168\\03_KATANA.x			//[3]刀
+MODEL_FILENAME = 168\\04_leftshoulder.x		//[4]左肩
+MODEL_FILENAME = 168\\05_leftarm.x			//[5]左腕
+MODEL_FILENAME = 168\\06_rightshoulder.x	//[6]右肩
+MODEL_FILENAME = 168\\07_rightarm.x  		//[7]右腕
+MODEL_FILENAME = 168\\08_leftthigh.x  	 	//[8]左太もも
+MODEL_FILENAME = 168\\09_leftshin.x			//[9]左脛
+MODEL_FILENAME = 168\\10_leftshoes.x		//[10]左靴
+MODEL_FILENAME = 168\\11_rightthigh.x		//[11]右太もも
+MODEL_FILENAME = 168\\12_rightshin.x		//[12]右脛
+MODEL_FILENAME = 168\\13_rightshoes.x		//[13]右靴
+MODEL_FILENAME = build_00.x					//[14]建物
+MODEL_FILENAME = build_01.x					//[15]建物
+MODEL_FILENAME = build_02.x					//[16]建物
